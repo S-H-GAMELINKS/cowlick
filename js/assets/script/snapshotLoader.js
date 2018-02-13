@@ -1,0 +1,1 @@
+window.gLocalAssetContainer["snapshotLoader"] = function(g) { !function(e,n,r,i,o){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var u=n("cowlick-engine");r.exports=function(e){g._require(g.game,"load")(u.engine),u.engine.restore(e)}}(g.module.exports,g.module.require,g.module,g.filename,g.dirname);}
