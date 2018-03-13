@@ -1,1 +1,0 @@
-window.gLocalAssetContainer["scene0_2_0"] = function(g) { !function(e,m,n,o,r){n.exports=function(e){e.current.sample="sample"}}(g.module.exports,g.module.require,g.module,g.filename,g.dirname);}
